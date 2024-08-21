@@ -8,26 +8,19 @@ const Footer = (props) => {
         Designed and built with{' '}
         <span className="Footer__Heart">&hearts;</span> by{' '}
         <a
-          href="https://www.linkedin.com/in/ramiz-rahman/"
+          href="https://www.linkedin.com/in/akashchoudhary7/"
           target="_blank"
           rel="noopener noreferrer"
           className="Footer__Link"
         >
-          Ramiz Rahman
+          Akash Kumar Choudhary
         </a>
       </section>
 
       <section className="Footer__Items">
+
         <a
-          href="https://youtu.be/JFjvVmvC3pQ"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="Footer__Link"
-        >
-          Demo
-        </a>
-        <a
-          href="https://github.com/ramiz-rahman/sort-visualizer"
+          href="https://github.com/AkashkumarChoudhary/sorting_visuals/"
           target="_blank"
           rel="noopener noreferrer"
           className="Footer__Link"
