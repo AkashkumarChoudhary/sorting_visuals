@@ -2,7 +2,7 @@
 
 This is a [progressive web app](https://developers.google.com/web/progressive-web-apps) built using React and is used to visualize classic sorting algorithms such as insertion sort, merge sort, quick sort, heap sort, etc.
 
-This app is deployed with Netlify and can be accessed here: [sort-visualizer.akash-kumar-choudharys.com]((https://sorting-visuals2-fdbss2ycu-akash-kumar-choudharys-projects.vercel.app/)).
+This app is deployed with vercel and can be accessed here: [sort-visualizer.akash-kumar-choudharys.com]((https://sorting-visuals2-fdbss2ycu-akash-kumar-choudharys-projects.vercel.app/)).
 I hope you have fun playing around with it.
 
  
